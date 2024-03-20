@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 #include <cstdio>
 
@@ -20,4 +21,21 @@ int main()
         }
     
 
+=======
+#include <iostream>
+
+
+int main()
+{
+    int x = 0;
+    int y = 5;
+
+    while(x<y) {
+        printf("%i\n",x);
+        x++; // x = x + 1; 
+    
+    }
+    
+
+>>>>>>> 7252ccc0633ddf286213b17a05f450b149d2fcfa
 }
